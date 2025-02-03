@@ -17,6 +17,7 @@ await Kalle.SendAsync(smsg, WebSocketMessageType.Text, true, CancellationToken.N
 byte[] resultat = new byte[1024];
 var bres = await Kalle.ReceiveAsync(new ArraySegment<byte>(resultat),CancellationToken.None);
 string mottaget = Encoding.UTF8.GetString(resultat,0,bres.Count);
+Console.WriteLine(mottaget);
     }
 }
 

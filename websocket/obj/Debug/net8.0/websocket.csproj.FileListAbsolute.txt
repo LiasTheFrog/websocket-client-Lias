@@ -12,3 +12,4 @@ C:\Users\li5236\OneDrive - LYSTKOM\C#\websocket client\websocket\obj\Debug\net8.
 C:\Users\li5236\OneDrive - LYSTKOM\C#\websocket client\websocket\obj\Debug\net8.0\websocket.pdb
 C:\Users\li5236\OneDrive - LYSTKOM\C#\websocket client\websocket\obj\Debug\net8.0\websocket.genruntimeconfig.cache
 C:\Users\li5236\OneDrive - LYSTKOM\C#\websocket client\websocket\obj\Debug\net8.0\ref\websocket.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\websocket client\websocket\obj\Debug\net8.0\websocket.sourcelink.json
