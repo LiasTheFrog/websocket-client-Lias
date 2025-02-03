@@ -5,7 +5,7 @@ using System.Text;
 
 class Program{
     static async Task Main(){
-Uri Uri = new Uri("ws://echo.websocket.org");
+Uri Uri = new Uri("/.ws://echo.websocket.org");
 ClientWebSocket Kalle = new ClientWebSocket();
 
 await Kalle.ConnectAsync(Uri, default);
